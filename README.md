@@ -1,1 +1,1 @@
-# using a flask app to be deployed with jenkins via a optional HTML parameters
+# deploying a flask app with jenkins utilising optional HTML parameters
